@@ -1,0 +1,12 @@
+--- Exported INBOX ---
+
+Correspondent: bob
+Time: 12:18
+Subject: sum
+Body: kkkk
+-----------------
+Correspondent: layal
+Time: 13:35
+Subject: 111
+Body: waserdtgyuhin
+-----------------

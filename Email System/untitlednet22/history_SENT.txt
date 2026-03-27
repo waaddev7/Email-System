@@ -1,0 +1,17 @@
+--- Exported SENT ---
+
+Correspondent: waad
+Time: 12:14
+Subject: sub
+Body: hi
+-----------------
+Correspondent: waad
+Time: 12:18
+Subject: sum
+Body: kkkk
+-----------------
+Correspondent: waad
+Time: 13:34
+Subject: jjbk
+Body: bnkj
+-----------------

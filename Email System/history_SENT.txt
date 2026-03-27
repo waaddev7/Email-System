@@ -1,0 +1,17 @@
+--- Exported SENT ---
+
+From/To: alice
+Time: 00:17
+Subject: hi
+Body: how are you?
+-----------------
+From/To: waad
+Time: 00:19
+Subject: hi
+Body: active?
+-----------------
+From/To: waad
+Time: 01:31
+Subject: fcdrsv
+Body: ecfsdve
+-----------------
